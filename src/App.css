@@ -9,3 +9,7 @@
   font-family: "myFont";
   src: url("/fonts/iranyekan/woff2/IRANYekanWebRegular.woff2");
 }
+
+body {
+  background-image: url("/blob-scatter-haikei.png");
+}
